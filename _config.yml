@@ -1,4 +1,14 @@
+title: Westgaard
+description: This is not a blog
+author: "Jon Arne Westgard"
+
 theme: minima
 show_excerpts: true
-minima:
-  skin: dark
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - LICENSE
+    - README.md
