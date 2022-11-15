@@ -2,7 +2,7 @@ title: Westgaard
 description: This is not a blog
 author: "Jon Arne Westgard"
 
-theme: minima
+theme: minima-mistakes
 show_excerpts: true
 
 # Minima: custom header links
