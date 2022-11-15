@@ -17,11 +17,10 @@ exclude:
     - .gitignore
     - LICENSE
     - README.md
-
+        
 # Set which comment system to use
 comments:
-  provider:            giscus
-  
+  provider: giscus
 giscus:
   repo="Westgaard/Westgaard.github.io"
   repo-id="R_kgDOIbS9-g"
