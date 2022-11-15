@@ -2,8 +2,17 @@ title: Westgaard
 description: This is not a blog
 author: "Jon Arne Westgard"
 
+# Theme settings
 theme: minima
 show_excerpts: true
+paginate: 10
+paginate_path: page/:num/
+github_username: Westgaard
+giscus_repo: Westgaard/Westgaard.github.io
+giscus_repo_id: R_kgDOIbS9-g
+giscus_category: Announcements
+giscus_category_id: DIC_kwDOIbS9-s4CSh8Q
+rss: RSS
 
 # Minima: custom header links
 header_pages:
