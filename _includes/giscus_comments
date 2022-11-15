@@ -1,6 +1,3 @@
-{% if provider == "giscus" %}
-  {% assign giscus = site.giscus %}
-  {% if giscus.repo %}
   <script src="https://giscus.app/client.js"
         data-repo="Westgaard/Westgaard.github.io"
         data-repo-id="R_kgDOIbS9-g"
@@ -15,7 +12,4 @@
         data-lang="en"
         data-loading="lazy"
         crossorigin="anonymous"
-        async>
   </script>
-  {% endif %}
-{% endif %}
