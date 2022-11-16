@@ -3,6 +3,9 @@ description: This is not a blog
 author: "Jon Arne Westgard"
 lang: en
 
+# Config
+google_analytics: G-ZHJVJYCVHG
+
 # Theme settings
 theme: minima
 show_excerpts: true
