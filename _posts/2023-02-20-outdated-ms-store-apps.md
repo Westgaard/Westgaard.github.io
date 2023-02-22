@@ -3,7 +3,7 @@ title: "Outdated apps in MS Store (new) in Intune"
 date: 2023-02-20
 ---
 
-In november 2022  (https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new#week-of-november-28-2022) MS Store (new) was available in Intune, and to cite Microsoft:
+In november 2022 [MS Store (new)](https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new#week-of-november-28-2022) was available in Intune, and to cite Microsoft:
 > You can now search, browse, configure, and deploy Microsoft Store apps within Intune. The new Microsoft Store app type is implemented using the Windows Package Manager. This app type features an expanded catalog of apps, which includes both UWP apps and Win32 apps.
 
 ![VLC MS Store (new)](/docs/assets/vlc-msstore.png)
